@@ -5,7 +5,7 @@ Project is intended to build a DICOM viewer which is controlled by an object or 
 The project's UI is developed using Qt Framework and coding language is C++. VTK and OpenCV libraries are used for displaying CT images, object tracking and 2D to 3D reconstruction.
 
 
-![Alt text](https://media.giphy.com/media/MY1a21g2gjY36IavCg/source.mp4)
+https://media.giphy.com/media/MY1a21g2gjY36IavCg/source.mp4
 
 
 
